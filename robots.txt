@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-71kt82.salamduit.xyz/sitemap.xml
